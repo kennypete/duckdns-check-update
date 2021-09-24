@@ -1,7 +1,9 @@
 #!/bin/bash
 
-# This script checks the difference in IP addresses returned by your website and the IP
-# address that is stored by duckdns.org to redirect your site to your current dynamically
+# README.md - https://github.com/kennypete/duckdns-check-update/blob/main/README.md
+
+# Abstract: This script checks the difference in IP addresses returned by your website and 
+# the IP address stored by duckdns.org to redirect your site to your current dynamically
 # assigned IP address.  Provided you are online, it updates your duckdns.org entry.
 # The benefit to you is that it gives a clear indicator of the success or otherwise of
 # your updates and it caneasily be automated with crontab. The benefit to duckdns is that
